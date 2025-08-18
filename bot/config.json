@@ -1,0 +1,9 @@
+{
+  "api_key": "R8PddwMBYtxGLb5PnUtSxUZYSiC1ctfnbHbPnXFiA5ai7edkH31RS58BWgUTuvvI",
+  "secret_key": "APUzWzuHp2drAFRZN86JjB5gHBNlrU4nZdWaD1VP9DykxKVwIvM6xZRVYxYy3tbv",
+  "sandbox": true,
+  "symbol": "BTCUSDT",
+  "ladder_size": 5,
+  "ladder_step": 1.0,
+  "order_size": 0.0001
+}
